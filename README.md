@@ -1,7 +1,7 @@
 <h1 align="center">Hi, There!!!</h1>
 
 <p align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-9.gif" width="150">
+  <img src="NOT FOUND" width="150">
 </p>
 
 <h2 align="center">Welcome to my GitHub profile~ MINHAJ</h2>
