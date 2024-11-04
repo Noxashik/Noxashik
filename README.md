@@ -4,11 +4,11 @@
   <img src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-9.gif" width="150">
 </p>
 
-<h2 align="center">Welcome to my GitHub profile~ OwO</h2>
+<h2 align="center">Welcome to my GitHub profile~ MINHAJ</h2>
 
 ---
 
-### <p align="center">💖 Vanh's GitHub Stats 💖</p>
+### <p align="center">💖 Noxashik GitHub Stats 💖</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanhbakaa&show_icons=true&theme=cute_theme" alt="GitHub stats" width="400">
@@ -31,5 +31,5 @@
 ---
 
 <p align="center"> 
-  <em>ENJOY BROTHER! UwU</em>
+  <em>ENJOY BROTHER!</em>
 </p>
